@@ -71,7 +71,7 @@ In this demo version (1.0.0), BookBuddies uses local storage primarily for testi
 ### Quick Start
 ```bash
 # Clone the repository
-git clone [your-repository-url]
+git clone https://github.com/MISTERKID/BookBuddies.git
 cd BookBuddies
 
 # Install dependencies
@@ -171,5 +171,5 @@ This project is licensed under the 0BSD License - see the [LICENSE](LICENSE) fil
 
 ---
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/saisengmain">saisengmain</a>
-</div> 
+  Made with ❤️ by <a href="https://github.com/MISTERKID">MISTERKID</a>
+</div>
